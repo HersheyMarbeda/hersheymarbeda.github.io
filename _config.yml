@@ -1,0 +1,13 @@
+# ----------------------------------
+#           Site settings
+# ----------------------------------
+title: Technical Portfolio | Hershey Marbeda
+description: A technical portfolio showcasing projects and skills of Hershey Beatrice Marbeda
+baseurl: ""
+url: ""
+  
+# ----------------------------------
+#         Build settings
+# ----------------------------------
+markdown: kramdown
+
