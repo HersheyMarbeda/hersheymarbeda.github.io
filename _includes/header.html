@@ -1,0 +1,37 @@
+<!-- Site Header -->
+<header class="site-header">
+  <nav class="navbar">
+    <div class="container-fluid">
+      <!-- Desktop Navigation -->
+      <a class="navbar-brand" href="{{ '/' | relative_url }}">HBM.</a>
+      
+      <!-- Desktop nav links -->
+      <ul class="nav-links desktop-nav">
+        <li><a href="{{ '/' | relative_url }}">home</a></li>
+        <li><a href="{{ '/#about' | relative_url }}">about</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}">projects</a></li>
+        <li><a href="{{ '/resume/' | relative_url }}">resume</a></li>
+        <li><a href="https://forms.gle/oVwZtVjbJsQsoHUw6" target="_blank" rel="noopener noreferrer">contact</a></li>
+      </ul>
+      
+      <!-- Mobile hamburger button -->
+      <button class="hamburger-toggle" aria-label="Toggle navigation menu" aria-expanded="false">
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+        <span class="hamburger-line"></span>
+      </button>
+    </div>
+    
+    <!-- Mobile Navigation Menu -->
+    <div class="mobile-menu" aria-hidden="true">
+      <ul class="mobile-nav-links">
+        <li><a href="{{ '/' | relative_url }}">home</a></li>
+        <li><a href="{{ '/#about' | relative_url }}">about</a></li>
+        <li><a href="{{ '/projects/' | relative_url }}">projects</a></li>
+        <li><a href="{{ '/resume/' | relative_url }}">resume</a></li>
+        <li><a href="https://forms.gle/oVwZtVjbJsQsoHUw6" target="_blank" rel="noopener noreferrer">contact</a></li>
+        <!-- <li><a href="{{ '/contact/' | relative_url }}">contact</a></li> -->
+      </ul>
+    </div>
+  </nav>
+</header>
