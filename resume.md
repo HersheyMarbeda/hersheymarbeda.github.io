@@ -16,11 +16,14 @@ permalink: /resume/
                     <div class="degree">Associate of Applied Science (A.A.S.) in Cybersecurity / Information Assurance</div>
                     <div class="school">Ivy Tech Community College — Indianapolis, IN | January 2026 to <span class="dates">present</span></div> 
                     <br>
-                    <div class="degree">Associate of Science (A.S.) in Computer Science</div>
+                    <div class="degree">Associate of Science (A.S.) in Computer Science | <a href="https://www.parchment.com/u/award/3fea8f8892adbab17964906f4fc666b6" target="_blank" rel="noopener noreferrer">View Diploma</a></div>
                     <div class="school">Ivy Tech Community College — Indianapolis, IN | <span class="dates">December 2025</span></div> 
                 </dd>
                 <dt>Technical Certifications</dt>
                 <dd>
+                    <br>
+                    <div class="degree">Software Development | Cum Laude | <a href="https://www.parchment.com/u/award/04f1cc24e415a5320991c25686778917" target="_blank" rel="noopener noreferrer">View Certificate</a></div>
+                    <div class="school">Ivy Tech Community College — Indianapolis, IN | December 2025</div>
                     <br>
                     <div class="degree">Freshman Engineering | Cum Laude | <a href="https://www.parchment.com/u/award/ddb881f3031260659d3ff164562670da" target="_blank" rel="noopener noreferrer">View Certificate</a></div>
                     <div class="school">Ivy Tech Community College — Indianapolis, IN | May 2025</div>
@@ -93,14 +96,33 @@ permalink: /resume/
             <div id="courses-content" style="display:none;">
                 <h4>A.S. in Computer Science Coursework</h4>
                 <ul>
-                    <li>CSCI 101: Computer Science I</li>
-                    <li>Network Fundamentals</li>
-                    <li>Operating Systems</li>
-                    <li>Linux Administration</li>
+                    <li>CSCI 101: Computer Science I (using C++)</li>
+                    <li>CSCI 201: Computer Science II (using C++)</li>
+                    <li>CSCI 202: Data Structures (using C++) </li>
+                    <li>CSCI 220: Software Development using Python</li>
+                    <li>CSCI 105: Discrete Logic for Computers</li>
+                    <li>CSCI 210: Database Systems (SQL, SQLite)</li>
+                    <li>INFM 109: Informatics Fundamentals</li>
+                    <li>SDEV 120: Computing Logic</li>
+                    <li>MATH 211: Calculus I</li>
+                    <li>MATH 212: Calculus II</li>
+                    <li>PHYS 220: Mechanics</li>
+                    <li>PHYS 221: Heat, Electric and Optics</li>
+                    <li>FREN 101: French Level I</li>
+                    <li>SOCI 111: Intro. to Sociology</li>
+                    <li>PSYC 101: Intro. to Psychology</li>
+                    <li>COMM 101: Fundamentals Public Speaking</li>
+                    <li>SDEV 265: Software Analysis</li>
                 </ul>
-                <p> MORE TO COME</p>
                 <h4>A.A.S. in Cybersecurity / Information Assurance Coursework</h4>
-                <p> MORE TO COME</p>
+                <ul>
+                    <li>CSIA 105: Intro. to Cyber Security/Information Assurance</li>
+                    <li>CSIA 115: Cyber Ops </li>
+                    <li>ITSP: IT Support Essentials I (Lab: CompTIA A+ Core 1)</li>
+                    <li>ITSP: IT Support Essentials II (Lab: CompTIA A+ Core 2)</li>
+                    <li>SVAD 111: Linux and Virtualization (Lab: AWS Learning, and using Virtual Machines)</li>
+                </ul>
+                <p>*** MORE TO COME ***</p>
             </div>
             <!-- <button type="button" id="download-resume" class="btn btn-outline-primary" data-url="{{ '/Resume-Hershey Marbeda.pdf' | relative_url }}">View My Resume</button> -->
             <!-- In case my resume is still on processing again -->
