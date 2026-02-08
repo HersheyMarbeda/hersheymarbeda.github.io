@@ -270,6 +270,13 @@ body {
 }
 
 /* ==============================
+            Main Content
+   ============================== */
+main {
+    flex: 1 0 auto; /* push footer to bottom on short pages */
+}
+
+/* ==============================
             Footer
    ============================== */
 .site-footer {

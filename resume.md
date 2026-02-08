@@ -69,7 +69,7 @@ permalink: /resume/
                         <li>Visual Studio Code, Git, GitHub, Command Line</li>
                         <li>VS Code, Xcode</li>
                         <li>Windows, MacOS</li>
-                        <li>Microsoft Office, Jira, Discord</li>
+                        <li>Microsoft Office, Google Workspace, Canva, Jira, Discord</li>
                     </ul>
                 </dd>
                 <br>
@@ -96,12 +96,12 @@ permalink: /resume/
             <div id="courses-content" style="display:none;">
                 <h4>A.S. in Computer Science Coursework</h4>
                 <ul>
-                    <li>CSCI 101: Computer Science I (using C++)</li>
-                    <li>CSCI 201: Computer Science II (using C++)</li>
-                    <li>CSCI 202: Data Structures (using C++) </li>
-                    <li>CSCI 220: Software Development using Python</li>
+                    <li>CSCI 101: Computer Science I <strong>(using C++)</strong></li>
+                    <li>CSCI 201: Computer Science II <strong>(using C++)</strong></li>
+                    <li>CSCI 202: Data Structures <strong>(using C++)</strong></li>
+                    <li>CSCI 220: Software Development using Python <strong>(Fundamentals and Django)</strong></li>
                     <li>CSCI 105: Discrete Logic for Computers</li>
-                    <li>CSCI 210: Database Systems (SQL, SQLite)</li>
+                    <li>CSCI 210: Database Systems <strong>(SQL, SQLite, using C++)</strong></li>
                     <li>INFM 109: Informatics Fundamentals</li>
                     <li>SDEV 120: Computing Logic</li>
                     <li>MATH 211: Calculus I</li>
@@ -118,15 +118,17 @@ permalink: /resume/
                 <ul>
                     <li>CSIA 105: Intro. to Cyber Security/Information Assurance</li>
                     <li>CSIA 115: Cyber Ops </li>
-                    <li>ITSP: IT Support Essentials I (Lab: CompTIA A+ Core 1)</li>
-                    <li>ITSP: IT Support Essentials II (Lab: CompTIA A+ Core 2)</li>
-                    <li>SVAD 111: Linux and Virtualization (Lab: AWS Learning, and using Virtual Machines)</li>
+                    <li>ITSP 132: IT Support Essentials I  <strong> (Lab: CompTIA A+ Core 1 CertMaster) </strong></li>
+                    <li>ITSP 134: IT Support Essentials II <strong>(Lab: CompTIA A+ Core 2 CertMaster)</strong></li>
+                    <li>SVAD 111: Linux and Virtualization <strong>(Lab: AWS Learning, and using Virtual Machines)</strong></li>
                 </ul>
                 <p>*** MORE TO COME ***</p>
+                <hr>
+                <p><i>More information can be find here: <a href="https://catalog.ivytech.edu/" target="_blank" rel="noopener noreferrer">Course Catalog</a></i></p>
             </div>
             <!-- <button type="button" id="download-resume" class="btn btn-outline-primary" data-url="{{ '/Resume-Hershey Marbeda.pdf' | relative_url }}">View My Resume</button> -->
             <!-- In case my resume is still on processing again -->
-            <button type="button" class="download-resume" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Not Yet Available">View My Resume</button>
+            <button type="button" class="download-resume" data-bs-container="body" data-bs-toggle="popover" data-bs-placement="right" data-bs-content="Please contact me using LinkedIn">Download My Resume</button>
         </div>
     </div>
     <!-- Shared half-screen drawer markup (reused from Projects) -->
