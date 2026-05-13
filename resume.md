@@ -60,6 +60,13 @@ permalink: /resume/
                     <div class="school">WIN Learning | December 2025</div>
                     <br>
                 </dd>
+                 <hr> <!-- Separator line -->
+                <dt>Industry Badges</dt>
+                <dd>
+                    <div class="degree">CyberOps Associate <!-- | <a href="https://www.parchment.com/u/award/04f1cc24e415a5320991c25686778917" target="_blank" rel="noopener noreferrer">View Badge </a> --></div>
+                    <div class="school">Cisco Network Academy | May 2026</div>
+                    <br>
+                </dd>
                 <hr> <!-- Separator line -->
                 <dt>Technical Skills</dt>
                 <dd>
@@ -117,10 +124,11 @@ permalink: /resume/
                 <h4>A.A.S. in Cybersecurity / Information Assurance Coursework</h4>
                 <ul>
                     <li>CSIA 105: Intro. to Cyber Security/Information Assurance</li>
-                    <li>CSIA 115: Cyber Ops </li>
+                    <li>CSIA 115: Cyber Operations <strong>(Using Cisco Network Academy: CyberOps Associate)</strong></li>
                     <li>ITSP 132: IT Support Essentials I  <strong> (Lab: CompTIA A+ Core 1 CertMaster) </strong></li>
                     <li>ITSP 134: IT Support Essentials II <strong>(Lab: CompTIA A+ Core 2 CertMaster)</strong></li>
                     <li>SVAD 111: Linux and Virtualization <strong>(Lab: AWS Learning, and using Virtual Machines)</strong></li>
+                    <li>NETI 104: Networking 101 <strong>(Lab: Cisco Packet Tracer)</strong></li>
                 </ul>
                 <p>*** MORE TO COME ***</p>
                 <hr>

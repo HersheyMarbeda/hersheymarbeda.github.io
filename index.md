@@ -9,7 +9,7 @@ title: "Technical Portfolio | Hershey Marbeda"
                 <h1>Hershey <br> Marbeda</h1>
             </div>
             <div class="profile-image">
-                <img src="{{ '/images/hershey_marbeda.jpeg' | relative_url }}" alt="Hershey Marbeda Profile Picture">
+                <img src="{{ '/images/hershey_marbeda.PNG' | relative_url }}" alt="Hershey Marbeda Profile Picture">
             </div>
             <h3 class="role"><span class="role-prefix">ASPIRING</span> <span class="role-title">SOFTWARE ENGINEER</span></h3>
         </section>
