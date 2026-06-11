@@ -20,7 +20,7 @@ title: "Technical Portfolio | Hershey Marbeda"
         <div class="about-me-container">
             <div class="about-me-description">
                 <p>
-                    Kumusta! I’m Hershey Marbeda, an aspiring Software Engineer and Data Scientist. 
+                    Kumusta! I’m Hershey Marbeda, an aspiring DevSecOps. 
                     I was born and raised in the Philippines until my family and I migrated to the U.S. 
                     I have lived in Kentucky, Texas, and Indiana. I believe my experiences in both Metro Manila and the United States will allow me to provide valuable insights on diversity and business.
                 </p>
