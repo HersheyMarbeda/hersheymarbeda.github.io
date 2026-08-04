@@ -40,6 +40,26 @@ permalink: /projects/
                     </div>
                 </div>
             </div>
+<!-- NovaDesk -->
+            <!-- <div class="card">
+                <img src="{{ 'images/ivy-logo.png' | relative_url }}" class="card-img-top" alt="Portfolio Website thumbnail.">
+                <div class="card-body">
+                    <h5 class="card-title">SoIT Chatbot</h5>
+                    <p class="card-text card-text--clamped">
+                        <strong>Capstone Project: </strong> 
+                        Developed a chatbot for the School of Information Technology (SoIT) at <a href="https://www.ivytech.edu/" target="_blank" rel="noopener noreferrer">Ivy Tech Community College</a>.
+                        This project was forked from a previous team’s repository and further enhanced by our team (FA24 Blue Team).<br>
+                        <br><strong>Goal:</strong> This project aims to assist students and faculty by providing quick answers to common questions about courses, schedules, and campus resources. 
+                        <br><br>I collaborated with two other team members, focusing primarily on <strong>backend development using Node.js.</strong> 
+                        My key contributions included implementing manually coded <strong>Filipino translations</strong>, improving <strong>response accuracy</strong>, and enhancing the <strong>user interface</strong> for a better user experience.
+                        I also updated the project’s visual design by introducing a new logo and integrating <strong><a href="https://icons.getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap icons</a></strong> for a more modern aesthetic.
+                    </p>
+                    <button class="btn-toggle" type="button" aria-expanded="false" data-mode="drawer">Read more</button>
+                    <div class="card-actions">
+                        <a href="https://github.com/rohydro93/SoIT_ChatBot_BrownTeam" class="btn" target="_blank" rel="noopener noreferrer">View GitHub Repository</a>
+                    </div>
+                </div>
+            </div> -->
         </div>
     </div>
 <!-- Project Drawer (half-screen) -->

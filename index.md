@@ -26,15 +26,13 @@ title: "Technical Portfolio | Hershey Marbeda"
                 </p>
                 <p>
                     I graduated with an Associate of Science (A.S.) in Computer Science from Ivy Tech Community College in Indianapolis, Indiana, in December 2025. 
-                    Currently, I am pursuing an Applied Associate of Science (A.A.S.) in Cybersecurity at the same college, with the intention of graduating in May 2028 or earlier. 
+                    Currently, I am pursuing an Applied Associate of Science (A.A.S.) in Cybersecurity at the same college, with the intention of graduating in July 2027. 
                     This program will enhance my understanding of security. 
                     Additionally, I plan to pursue CompTIA Security+, A+, and Network+ certifications while studying for my A.A.S. in Cybersecurity, which will further strengthen my technical skills and knowledge in the field. 
                     Also, I’m always up for the challenge to upskill and further my education in the future.
                 </p>
                 <p>
-                    I enjoy working in web development and data analytics. I created a showcase website for a local rental business in Rizal, Philippines, with the goal of improving its visibility both nationally and globally. 
-                    In the future, I plan to develop this showcase website into a full-stack application. 
-                    I also hope to apply what I learn from my cybersecurity studies to this project and to future employment opportunities.
+                   I’m currently developing NovaDesk, a full-stack IT support and ticket management platform built with Django and React. I used Figma to plan the platform’s design and implemented REST APIs, role-based interfaces, authentication, and interactive dashboards. Through this project, I’ve gained a better understanding of how frontend development, backend logic, databases, and user permissions work together in a complete web application. In the future, I plan to expand NovaDesk with cybersecurity-focused analytics to help identify unusual activity and potential security risks.
                 </p>
                 <p>
                     Outside of school and programming, I enjoy working out and traveling. 
