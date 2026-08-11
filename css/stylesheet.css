@@ -776,5 +776,8 @@ body.resume-theme .popover .popover-body {
 }
 
 
-
+.list-strong {
+    font-weight: 700;
+    color: #820811;
+}
 

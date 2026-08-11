@@ -37,6 +37,9 @@ permalink: /resume/
                 <hr> <!-- Separator line -->
                 <dt>Honors & Memberships</dt>
                 <dd>
+                    <div class="degree">Spring 2026 Dean's List</div>
+                    <div class="school">Ivy Tech Community College — Indianapolis, IN </div>
+                    <br>
                     <div class="degree">Phi Theta Kappa Honor Society</div>
                     <div class="school">Ivy Tech Community College — Indianapolis, IN | <span class="dates">Inducted June 2025</span></div>
                     <br>
@@ -56,6 +59,9 @@ permalink: /resume/
                 <hr> <!-- Separator line -->
                 <dt>Industry Certifications</dt>
                 <dd>
+                    <div class="degree">A+</div>
+                    <div class="school">CompTIA | December 2026 (Expected) </div>
+                    <br>
                     <div class="degree">Soft Skills Courseware</div>
                     <div class="school">WIN Learning | December 2025</div>
                     <br>
@@ -71,12 +77,13 @@ permalink: /resume/
                 <dt>Technical Skills</dt>
                 <dd>
                     <ul>
-                        <li>HTML, CSS, JavaScript, Node.js, Python, C++, Bootstrap, GitHub</li>
-                        <li>SQL, SQLite, MongoDB</li>
-                        <li>Visual Studio Code, Git, GitHub, Command Line</li>
-                        <li>VS Code, Xcode</li>
-                        <li>Windows, MacOS</li>
-                        <li>Microsoft Office, Google Workspace, Canva, Jira, Discord</li>
+                        <li><strong class="list-strong">Frontend Web Development:</strong> HTML, CSS, JvaScript, Bootstrap, React</li>
+                        <li><strong class="list-strong">Backend & Systems Programming:</strong> Node.js, Django, Node.js, Python, C++, Rust (beginner), C# (beginner) </li>
+                        <li><strong class="list-strong">Database Management Systems:</strong> SQL, SQLite, MongoDB, Postgres (beginner)</li>
+                        <li><strong class="list-strong">Version Control & Collaboration:</strong> Git, GitHub</li>
+                        <li><strong class="list-strong">Development Environments (IDEs):</strong> Visual Studio Code (VS Code), Xcode</li>
+                        <li><strong class="list-strong">Operating Systems:</strong> Windows, MacOS</li>
+                        <li><strong class="list-strong">Productivity & Communication Tools:</strong> Microsoft Office, Google Workspace, Canva, Jira, Discord, Command Line</li>
                     </ul>
                 </dd>
                 <br>
@@ -129,6 +136,10 @@ permalink: /resume/
                     <li>ITSP 134: IT Support Essentials II <strong>(Lab: CompTIA A+ Core 2 CertMaster)</strong></li>
                     <li>SVAD 111: Linux and Virtualization <strong>(Lab: AWS Learning, and using Virtual Machines)</strong></li>
                     <li>NETI 104: Networking 101 <strong>(Lab: Cisco Packet Tracer)</strong></li>
+                    <li><strong>CSIA 210: Network Protocol Analysis (Fall 2026)</strong></li>
+                    <li><strong>CSIA 225: Advanced Digital Forensics (Fall 2026)</strong></li>
+                    <li><strong>ITSP 136: WForce Prep CompTIA A+ Cert (Fall 2026)</strong></li>
+                    <li><strong>SVAD 121: Enterprise Computing (Fall 2026)</strong></li>
                 </ul>
                 <p>*** MORE TO COME ***</p>
                 <hr>
