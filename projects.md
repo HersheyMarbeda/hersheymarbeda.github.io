@@ -22,7 +22,7 @@ permalink: /projects/
                 </div>
             </div>
             <div class="card">
-                <img src="{{ 'images/ivy-logo.png' | relative_url }}" class="card-img-top" alt="Portfolio Website thumbnail.">
+                <img src="{{ 'images/SoIT-Chatbot.png' | relative_url }}" class="card-img-top" alt="Portfolio Website thumbnail.">
                 <div class="card-body">
                     <h5 class="card-title">SoIT Chatbot</h5>
                     <p class="card-text card-text--clamped">
@@ -40,26 +40,25 @@ permalink: /projects/
                     </div>
                 </div>
             </div>
-<!-- NovaDesk -->
-            <!-- <div class="card">
-                <img src="{{ 'images/ivy-logo.png' | relative_url }}" class="card-img-top" alt="Portfolio Website thumbnail.">
+<!-- ***************************************************************************** NovaDesk ******************************************************************** -->
+            <div class="card">
+                <img src="{{ 'images/NovaDesk.png' | relative_url }}" class="card-img-top" alt="Portfolio Website thumbnail.">
                 <div class="card-body">
-                    <h5 class="card-title">SoIT Chatbot</h5>
+                    <h5 class="card-title">NovaDesk</h5>
                     <p class="card-text card-text--clamped">
-                        <strong>Capstone Project: </strong> 
-                        Developed a chatbot for the School of Information Technology (SoIT) at <a href="https://www.ivytech.edu/" target="_blank" rel="noopener noreferrer">Ivy Tech Community College</a>.
-                        This project was forked from a previous team’s repository and further enhanced by our team (FA24 Blue Team).<br>
-                        <br><strong>Goal:</strong> This project aims to assist students and faculty by providing quick answers to common questions about courses, schedules, and campus resources. 
-                        <br><br>I collaborated with two other team members, focusing primarily on <strong>backend development using Node.js.</strong> 
-                        My key contributions included implementing manually coded <strong>Filipino translations</strong>, improving <strong>response accuracy</strong>, and enhancing the <strong>user interface</strong> for a better user experience.
-                        I also updated the project’s visual design by introducing a new logo and integrating <strong><a href="https://icons.getbootstrap.com/" target="_blank" rel="noopener noreferrer">Bootstrap icons</a></strong> for a more modern aesthetic.
+                        <strong>Full-Stack IT Support & Ticket Management Platform</strong><br>
+                        NovaDesk is a side project I am developing to strengthen my full-stack development skills and better understand how real-world IT support systems work. It is built with <strong>Django and React</strong>, with the frontend communicating with the backend through REST APIs. <br><br>
+                        The platform is designed to provide a centralized place where employees and IT support teams can submit, manage, and resolve technical support requests. Employees can create support tickets, add comments, track the progress of their requests, and communicate with IT personnel. IT support staff can review assigned tickets, update ticket statuses and priorities, respond to users, and manage ongoing support requests. Administrators have additional tools for managing users, departments, locations, assets, and other system data.<br><br>
+                        While developing NovaDesk, I have been working with concepts such as authentication, role-based access control, API development, database management, data validation, frontend and backend integration, and responsive user interfaces. I also use Figma to plan the interface and organize features before implementing them.<br><br>
+                        NovaDesk has helped me gain a better understanding of how different parts of a full-stack application work together while allowing me to apply both my computer science and cybersecurity knowledge to a practical project. My goal is to continue expanding the platform with features that make IT support more organized, secure, and efficient.<br><br>
+                        <strong>Tools Used:</strong> Bootstrap React, (and many more to come)
                     </p>
                     <button class="btn-toggle" type="button" aria-expanded="false" data-mode="drawer">Read more</button>
                     <div class="card-actions">
-                        <a href="https://github.com/rohydro93/SoIT_ChatBot_BrownTeam" class="btn" target="_blank" rel="noopener noreferrer">View GitHub Repository</a>
+                        <a href="/" class="btn" target="_blank" rel="noopener noreferrer">View GitHub Repository</a>
                     </div>
                 </div>
-            </div> -->
+            </div>
         </div>
     </div>
 <!-- Project Drawer (half-screen) -->

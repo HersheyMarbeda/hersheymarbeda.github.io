@@ -60,7 +60,7 @@ permalink: /resume/
                 <dt>Industry Certifications</dt>
                 <dd>
                     <div class="degree">A+</div>
-                    <div class="school">CompTIA | December 2026 (Expected) </div>
+                    <div class="school">CompTIA | December 2026 <strong class="list-strong">(Expected | In Progress)</strong></div>
                     <br>
                     <div class="degree">Soft Skills Courseware</div>
                     <div class="school">WIN Learning | December 2025</div>
